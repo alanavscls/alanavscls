@@ -13,7 +13,7 @@
 
   ##
   
-  <h6>Oie! Eu sou Alana, apaixonada por animais, tecnologia e animes🌷💗</h6>
+  <h3>Oie! Eu sou Alana, apaixonada por animais, tecnologia e animes🌷💗</h3>
 
 🎓 Bacharelado: Serviço Social - Universidade Federal de Pernambuco
 
