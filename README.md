@@ -13,13 +13,13 @@
 
   ##
   
-Oie! Eu sou Alana, apaixonada por animais, tecnologia e animes🌷💗
+  <h6>Oie! Eu sou Alana, apaixonada por animais, tecnologia e animes🌷💗</h6>
 
 🎓 Bacharelado: Serviço Social - Universidade Federal de Pernambuco
 
 📖 Em formação: Análise e Desenvolvimento de Sistemas - Faculdade Nova Roma
   
-💻 Estudando: Java, CSS
+💻 Estudando: Java, CSS, Git.
   
 
 
