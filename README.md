@@ -1,4 +1,4 @@
-<img align="center" alt="hello-alana" src="https://media.discordapp.net/attachments/557400688918003712/950559235329118259/unknown.png" width="80%" />
+<img align="left" alt="hello-alana" src="https://media.discordapp.net/attachments/557400688918003712/950559235329118259/unknown.png" width="40%" />
 <img align="right" alt="lana-caricatura" src="https://user-images.githubusercontent.com/93610017/139995871-618a69e7-7cbc-4f13-aab1-6645e584a2ac.jpg" width="250px" />
 
 <br />
@@ -15,7 +15,7 @@ I'm a software developer student from Brazil.
 - 💻 Learning: Java Script, C#, Git
 
 - 💗 I love my dogs and cats
-- 
+
 - 🍜 My favorite anime is Naruto and Anohana
 
 
