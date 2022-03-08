@@ -4,7 +4,7 @@
 
 <br />
 
-I'm a software developer student from Brazil.
+I'm a software developement student from Brazil.
 
 
 **About me**
