@@ -30,8 +30,8 @@ I'm a software developement student from Brazil.
    
 <div>
   <a href="https://github.com/alanavscls">
-  <img height="127em" src="https://github-readme-stats.vercel.app/api?username=alanavscls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanavscls&layout=compact&langs_count=16&theme=dracula" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alanavscls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanavscls&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 
