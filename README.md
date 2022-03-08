@@ -17,7 +17,7 @@ I'm a software developement student from Brazil.
 
 - 💗 I love my pet's
 
-- 🍜 My favorite anime is Naruto and Anohana
+- 🍜 My favorite anime is Naruto and Ano Hana
 
 
 <div style="display: inline_block"><br/>
