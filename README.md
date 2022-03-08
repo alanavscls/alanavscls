@@ -2,8 +2,6 @@
 
 <img align="right" alt="lana-caricatura" src="https://user-images.githubusercontent.com/93610017/139995871-618a69e7-7cbc-4f13-aab1-6645e584a2ac.jpg" width="250px" />
 
-<br />
-
 I'm a software developement student from Brazil.
 
 
@@ -24,22 +22,24 @@ I'm a software developement student from Brazil.
   <img align="center" alt="lana-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="lana-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="lana-py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  
+  <p></p>
+    
+<div>
+  <a href="https://github.com/alanavscls">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alanavscls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanavscls&layout=compact&langs_count=16&theme=dracula" />
 
+![Snake animation](https://github.com/alanavscls/alanavscls/blob/output/github-contribution-grid-snake.svg)
 
-  ##
+</div>
+  
+ ##
   
   <div>
     <a href="mailto:alanamvd30@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" /></a>
     <a href="https://www.linkedin.com/in/alanavasconcelos" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" /></a>
     <a href="https://instagram.com/alanavscls" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" /></a>
   </div>
-    
-<div>
-  <a href="https://github.com/alanavscls">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alanavscls&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanavscls&layout=compact&langs_count=16&theme=dracula" />
-</div>
-
-
 
 
