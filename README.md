@@ -7,15 +7,15 @@ I'm a software development student from Brazil.
 
 **About me**
 
-- 🎓 I have a Bachelor's Degree in Social Work from the Federal University of Pernambuco
+🎓 I have a Bachelor's Degree in Social Work from the Federal University of Pernambuco
 
-- 📖 I'm getting my Associate's Degree in Software Development at Pontifical Catholic University of Minas Gerais
+📖 I'm getting my Associate's Degree in Software Development at Pontifical Catholic University of Minas Gerais
 
-- 💻 Learning: Java Script, C#, Git
+💻 Learning: Java Script, C#, Git
 
-- 💗 I love my pet's
+💗 I love my pet's
 
-- 🍜 My favorite anime is Naruto and Ano Hana
+🍜 My favorite anime is Naruto and Ano Hana
 
 
 <div style="display: inline_block"><br/>
