@@ -11,7 +11,7 @@ I'm a software development student from Brazil.
 
 📖 I'm getting my Associate's Degree in Software Development at Pontifical Catholic University of Minas Gerais
 
-💻 Learning: Java Script, C#, Software testing
+💻 Learning: JavaScript, C#, Software testing
 
 💗 I love my pet's
 
