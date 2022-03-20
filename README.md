@@ -11,6 +11,8 @@ I'm a software development student from Brazil.
 
 📖 I'm getting my Associate's Degree in Software Development at Pontifical Catholic University of Minas Gerais
 
+🔧 Other tools: Scrum, Git, Figma, Bizagi
+
 💻 Learning: JavaScript, C#, Software testing
 
 💗 I love my pet's
