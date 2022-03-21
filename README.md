@@ -31,8 +31,8 @@ I'm a software development student from Brazil.
     
 <div>
   <a href="https://github.com/alanavscls">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=alanavscls&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanavscls&layout=compact&langs_count=16&theme=material-palenight" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=alanavscls&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true" />
+  <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanavscls&layout=compact&langs_count=16&theme=material-palenight" />
 
 ![Snake animation](https://github.com/alanavscls/alanavscls/blob/output/github-contribution-grid-snake.svg)
 
