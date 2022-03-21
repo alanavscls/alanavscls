@@ -15,7 +15,7 @@ I'm a software development student from Brazil.
 
 📚 Methodologies: Scrum | Kanban
 
-💻 Learning: JavaScript, C#, Software testing
+💻 Learning: JavaScript| C# | Software testing
 
 💗 I love my pet's
 
